@@ -19,3 +19,6 @@ keras-cv
 ultralytics
 deepface
 xgboost
+datetime
+albumentations
+tensorflow-probability
